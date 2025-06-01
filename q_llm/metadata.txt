@@ -1,0 +1,16 @@
+[general]
+name=Q-LLM
+description=A lightweight QGIS assistant powered by Gemma 3.
+version=1.0.0
+qgisMinimumVersion=3.22
+qgisMaximumVersion=3.36
+author=Byeonghyeok Yu
+email=bhyu@knps.or.kr
+icon=resources/icon.png
+homepage=https://github.com/osgeokr/q_llm
+repository=https://github.com/osgeokr/q_llm.git
+tracker=https://github.com/osgeokr/q_llm/issues
+category=Plugins
+tags=llm, qgis, gemma, assistant, ai
+experimental=True
+deprecated=False
